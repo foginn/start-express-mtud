@@ -1,0 +1,40 @@
+{
+  "statefulConfig": {
+    "serviceName": "web-framework-mtud",
+    "description": "Serverless Devs Web Framework Service",
+    "role": "",
+    "logConfig": {
+      "project": "",
+      "logstore": "",
+      "enableRequestMetrics": false,
+      "enableInstanceMetrics": false,
+      "logBeginRule": "None"
+    },
+    "serviceId": "b42c6198-cb7d-4c4c-9cde-395d57ccb466",
+    "createdTime": "2023-04-13T11:03:11Z",
+    "lastModifiedTime": "2023-04-13T11:34:10Z",
+    "vpcConfig": {
+      "vpcId": "",
+      "vSwitchIds": [],
+      "securityGroupId": "",
+      "role": null,
+      "anytunnelViaENI": null
+    },
+    "internetAccess": true,
+    "nasConfig": {
+      "userId": -1,
+      "groupId": -1,
+      "mountPoints": []
+    },
+    "ossMountConfig": {
+      "mountPoints": []
+    },
+    "vendorConfig": null,
+    "tracingConfig": {
+      "type": null,
+      "params": null,
+      "jaegerConfig": null
+    },
+    "name": "web-framework-mtud"
+  }
+}

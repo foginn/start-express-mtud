@@ -1,0 +1,25 @@
+{
+  "statefulConfig": {
+    "triggerName": "httpTrigger",
+    "description": "",
+    "triggerId": "15038379-0b54-487a-9ad7-b210e22067c9",
+    "sourceArn": null,
+    "triggerType": "http",
+    "invocationRole": null,
+    "qualifier": null,
+    "urlInternet": "https://express-web-fraork-mtud-elgxephktu.cn-hangzhou.fcapp.run",
+    "urlIntranet": "https://express-web-fraork-mtud-elgxephktu.cn-hangzhou-vpc.fcapp.run",
+    "triggerConfig": {
+      "methods": [
+        "GET"
+      ],
+      "authType": "anonymous",
+      "disableURLInternet": false
+    },
+    "createdTime": "2023-04-13T11:03:12Z",
+    "lastModifiedTime": "2023-04-13T11:34:10Z",
+    "status": null,
+    "targetArn": null,
+    "name": "httpTrigger"
+  }
+}

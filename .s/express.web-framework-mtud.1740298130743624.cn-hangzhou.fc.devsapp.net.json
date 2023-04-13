@@ -1,0 +1,39 @@
+{
+  "domainName": "express.web-framework-mtud.1740298130743624.cn-hangzhou.fc.devsapp.net",
+  "accountId": "1740298130743624",
+  "protocol": "HTTP",
+  "certConfig": {
+    "certName": null,
+    "privateKey": null,
+    "certificate": null
+  },
+  "tlsConfig": {
+    "minVersion": null,
+    "maxVersion": null,
+    "cipherSuites": null
+  },
+  "apiVersion": "2016-08-15",
+  "routeConfig": {
+    "routes": [
+      {
+        "path": "/*",
+        "accountId": null,
+        "serviceName": "web-framework-mtud",
+        "functionName": "express",
+        "qualifier": null,
+        "methods": [
+          "GET"
+        ],
+        "rewriteConfig": null,
+        "innerRewriteConfig": null
+      }
+    ]
+  },
+  "createdTime": "2023-04-13T11:03:14Z",
+  "lastModifiedTime": "2023-04-13T11:34:12Z",
+  "keepFullPath": null,
+  "subdomainCount": null,
+  "wafConfig": {
+    "enableWAF": false
+  }
+}
