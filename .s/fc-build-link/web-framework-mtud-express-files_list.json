@@ -1,0 +1,44 @@
+{
+  ".fcignore": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/.fcignore",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/.fcignore"
+  },
+  "bootstrap": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/bootstrap",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/bootstrap"
+  },
+  "build.sh": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/build.sh",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/build.sh"
+  },
+  "dockerfile": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/dockerfile",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/dockerfile"
+  },
+  "index.js": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/index.js",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/index.js"
+  },
+  "package-lock.json": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/package-lock.json",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/package-lock.json"
+  },
+  "package.json": {
+    "sourceFileType": "file",
+    "buildFileType": "link",
+    "buildFilePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/.s/build/artifacts/web-framework-mtud/express/package.json",
+    "sourcePath": "/Users/yang/Work/aliyun/serverless/start-express-mtud/code/package.json"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "statefulConfig": {
+    "functionId": "d0cff5b6-f5d5-47f7-81ce-71575815aa03",
+    "functionName": "expressxixisjfas",
+    "description": "Serverless Devs Web Framework Function",
+    "runtime": "custom",
+    "handler": "index.handler",
+    "timeout": 60,
+    "initializer": "",
+    "initializationTimeout": 3,
+    "codeSize": 768079,
+    "codeChecksum": "3247423270901091604",
+    "memorySize": 128,
+    "gpuMemorySize": null,
+    "environmentVariables": {
+      "LD_LIBRARY_PATH": "/code/.s/root/usr/local/lib:/code/.s/root/usr/lib:/code/.s/root/usr/lib/x86_64-linux-gnu:/code/.s/root/usr/lib64:/code/.s/root/lib:/code/.s/root/lib/x86_64-linux-gnu:/python/lib/python3.7/site-packages:/code:/code/lib:/usr/local/lib",
+      "NODE_PATH": "/opt/node_modules:/code/node_modules:/usr/local/lib/node_modules",
+      "PATH": "/code/.s/root/usr/local/bin:/code/.s/root/usr/local/sbin:/code/.s/root/usr/bin:/code/.s/root/usr/sbin:/code/.s/root/sbin:/code/.s/root/bin:/code:/code/node_modules/.bin:/code/.s/node_modules/.bin:/code/.s/python/bin:/usr/local/bin:/usr/local/sbin:/usr/bin:/usr/sbin:/sbin:/bin",
+      "PYTHONUSERBASE": "/code/.s/python"
+    },
+    "createdTime": "2023-04-13T15:44:35Z",
+    "lastModifiedTime": "2023-04-13T15:44:35Z",
+    "instanceConcurrency": 1,
+    "instanceSoftConcurrency": null,
+    "customContainerConfig": null,
+    "caPort": 9000,
+    "instanceType": "e1",
+    "layers": null,
+    "layersArnV2": null,
+    "instanceLifecycleConfig": {
+      "preFreeze": {
+        "handler": "",
+        "timeout": 3
+      },
+      "preStop": {
+        "handler": "",
+        "timeout": 3
+      }
+    },
+    "customDNS": null,
+    "customRuntimeConfig": {
+      "command": [
+        "./bootstrap"
+      ],
+      "args": null
+    },
+    "customHealthCheckConfig": null,
+    "name": "expressxixisjfas"
+  }
+}

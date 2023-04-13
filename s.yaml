@@ -23,7 +23,7 @@ access: "default"
 
 vars: # 全局变量
   region: "cn-hangzhou"
-  functionName: "express"
+  functionName: "expressxixisjfas"
   service:
     name: "web-framework-mtud"
     description: 'Serverless Devs Web Framework Service'
